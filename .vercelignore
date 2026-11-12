@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+temp_jobs/
+uploads/
+output/
+app.py
+detector.py
+requirements.txt
+run.command
+run.bat
+*.mp4
+*.avi
+*.mov
+*.mkv

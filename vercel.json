@@ -1,8 +1,5 @@
 {
   "version": 2,
-  "name": "dashcam-culprit-finder",
-  "cleanUrls": true,
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
-  ]
+  "framework": null,
+  "cleanUrls": true
 }
