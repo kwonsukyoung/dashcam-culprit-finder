@@ -1,0 +1,18 @@
+{
+  "name": "dashcam-culprit-finder",
+  "version": "2.0.0",
+  "description": "블랙박스 범인 잡기 v2 - 단순 통과 차량 자동 배제 및 차체 접촉·주차기동·문콕 정밀 탐지 웹 서비스 (Firebase 연동)",
+  "private": false,
+  "scripts": {
+    "start": "python3 -m http.server 3000",
+    "dev": "python3 -m http.server 3000"
+  },
+  "keywords": [
+    "dashcam",
+    "motion-detection",
+    "culprit-finder",
+    "firebase",
+    "vercel"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Uploaded or temporary analysis files
+uploads/
+output/
+temp_jobs/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
